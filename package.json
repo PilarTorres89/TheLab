@@ -1,0 +1,12 @@
+{
+  "name": "thelab",
+  "version": "1.0.0",
+  "description": "Automation structure for ecommerce with cypress",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
