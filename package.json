@@ -1,0 +1,29 @@
+{
+  "name": "thelab",
+  "version": "1.0.0",
+  "description": "Automation structure for ecommerce with cypress",
+  "main": "index.js",
+  "scripts": {
+    "test": "Automation",
+    "cypress:open": "cypress:open"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/PilarTorres89/TheLab.git"
+  },
+  "keywords": [
+    "QA",
+    "Automation",
+    "Cypress"
+  ],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/PilarTorres89/TheLab/issues"
+  },
+  "homepage": "https://github.com/PilarTorres89/TheLab#readme",
+  "devDependencies": {
+    "cypress": "^13.8.1",
+    "cypress-if": "^1.10.5"
+ }
+}
